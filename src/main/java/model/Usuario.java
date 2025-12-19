@@ -14,6 +14,7 @@ public class Usuario {
     }
     public String getNombre(){ return nombre;}
     public String getClave(){ return clave;}
+    public int getId(){return id;}
 
 
 }
