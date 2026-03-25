@@ -1,5 +1,6 @@
-## Video Explicativo
+## Demo del Sistema
 
-[![Demo del sistema](https://www.youtube.com/watch?v=2fnXL7Ixi1Q)
+<!-- Opción B: Imagen clicable (reemplaza TU_ID por el ID del video de YouTube, ej: dQw4w9WgXcQ) -->
+[![Demo del sistema](https://youtu.be/2fnXL7Ixi1Q?si=tIAq6f2U1F9bO_xH)
 
 ---
