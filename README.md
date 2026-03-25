@@ -1,10 +1,8 @@
 ## Demo del Sistema
 <div align="center">
-  <a href="https://youtu.be/2fnXL7Ixi1Q?si=tIAq6f2U1F9bO_xH">
-    <img src="https://drive.google.com/thumbnail?id=1SNNRbMikOttYbWQWE5IftjskOsissprB&sz=w800" alt="Demo del sistema" width="600"/>
-    <br/>
-    <img src="https://img.shields.io/badge/▶%20Ver%20Demo-Click%20aquí-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver demo"/>
-  </a>
+
+<iframe width="1577" height="645" src="https://www.youtube.com/embed/2fnXL7Ixi1Q" title="Tarea Banco-BaseDatos y punto exe JAVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </div>
 
 ---
